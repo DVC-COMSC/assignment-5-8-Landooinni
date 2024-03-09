@@ -21,7 +21,7 @@ int main()
 	{
 	sum=s2+s1;
 	avg=sum/2;
-	cout<<name<<" "<<sum<<" "<<avg<<"\n";
+	cout<<"Student Name:" <<name<< "score1:" <<s1<<"score2:"<<s2<<"Sum:"<<sum<<"Avg:"<<avg<<"\n";
 	}
 }
 }
