@@ -24,3 +24,4 @@ int main()
 	cout<<name<<" "<<sum<<" "<<avg<<"\n";
 	}
 }
+}
